@@ -4,8 +4,8 @@ def test_bond_functionality():
 
     purchase_price = 90
     current_price = 80.231
-    name = 'Goldman Sachs Bond'
-    identifier = 'USP569123FD1'
+    name = 'Super Vague Fruit Company'
+    isin = 'US037833BG48'
     asset_class = 'Bond'
     benchmark = '30Y'
     par = 100
